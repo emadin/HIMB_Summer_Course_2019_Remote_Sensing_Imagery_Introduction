@@ -1,32 +1,27 @@
----
-title: "Remote Sensing Imagery Module: Introduction"
-author: "Elizabeth Madin"
-date: "16/05/2019"
-output: html_document
----
+Remote Sensing Imagery Module: Introduction
+================
+Elizabeth Madin
+16/05/2019
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+Summary
+-------
 
-## Summary
+Get an overview of 1) the module, 2) remote sensing as a field, and 3) Elizabeth's journey integrating field ecology with remote sensing imagery (with no geospatial background); read/discuss LaRue et al. and discuss/brainstorm project ideas.
 
-Get an overview of 1) the module, 2) remote sensing as a field, and 3) Elizabeth's journey integrating field ecology with remote sensing imagery (with no geospatial background); read/discuss LaRue et al.
-and discuss/brainstorm project ideas. 
+Goals
+-----
 
-## Goals
+-   Develop an understanding of remote sensing as a field and some ways it can be used in marine science
+-   Start to visualise how you may be able to harness the power of geospatial data in your work
+-   Start thinking about geospatial-relevent ?s to ask/answer in a) course project and b) own research
 
-* Develop an understanding of remote sensing as a field and some ways it can be used in marine science
-* Start to visualise how you may be able to harness the power of geospatial data in your work
-* Start thinking about geospatial-relevent ?s to ask/answer in a) course project and b) own research
+Components
+----------
 
-## Components
-
-* Introduction to the module and overview of what we'll do in it
-* Overview of remote sensing as a field (lecture)
-* Discussion
-* Case study integrating behavioural field ecology and remote sensing (lecture)
-* Reading of LaRue et al. (2016) Conservation Biology
-* Brainstorming/discussing project ideas
-* Writing out three potential project topics each
-
+-   Introduction to the module and overview of what we'll do in it
+-   Overview of remote sensing as a field (lecture)
+-   Discussion
+-   Case study integrating behavioural field ecology and remote sensing (lecture)
+-   Reading of LaRue et al. (2016) Conservation Biology
+-   Brainstorming/discussing project ideas
+-   Writing out three potential project topics each
